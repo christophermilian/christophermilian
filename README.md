@@ -1,16 +1,19 @@
-### Hi there 👋
+### ❇️ Welcome to my Page! ❇️
 
-<!--
-**christophermilian/christophermilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Gif Here
 
-Here are some ideas to get you started:
+## 🛠️ Current Projects
+- Git clone made with Python
+- Type-safe exercise tracker with TypeScript.
+  
+## 🌱 Current Leraning 
+- Different backend stacks for web services
+- DevOps with AWS
+  
+## 💬 Ask me about
+- Microservices
+- Good books on ideas or math
+- Video Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- ![Find me on LinkedIn!](https://www.linkedin.com/in/christophermilian/)
