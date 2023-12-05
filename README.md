@@ -1,6 +1,6 @@
 ### ❇️ Welcome to my Page! ❇️
 
-Hello Gif Here
+![](https://github.com/christophermilian/christophermilian/blob/main/dog_hello.gif)
 
 ## 🛠️ Current Projects
 - Git clone made with Python
