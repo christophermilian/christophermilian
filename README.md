@@ -21,7 +21,7 @@
 - ![Git cli clone with Python](https://github.com/christophermilian/git-cli-clone-python)
 - ![Type-safe exercise tracker with TypeScript](https://github.com/christophermilian/nodejs-exercise-tracker)
 
-### 🌱 Current Leraning 
+### 🌱 Current Learning 
 - Different backend stacks for web services
 - DevOps with AWS
 
