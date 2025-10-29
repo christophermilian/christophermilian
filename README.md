@@ -22,7 +22,8 @@
 </div>
 </p>
 
-### 🛠️ Current Projects
+### 🛠️ Most Interesting Projects
+- ![ESP32 Fishing Game Controller](https://https://github.com/christophermilian/esp32-fishing-controller)
 - ![Git cli clone with Python](https://github.com/christophermilian/git-cli-clone-python)
 - ![Type-safe exercise tracker with TypeScript](https://github.com/christophermilian/nodejs-exercise-tracker)
 
