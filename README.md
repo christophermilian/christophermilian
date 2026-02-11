@@ -2,9 +2,13 @@
   <b>Hello, I'm Christopher Milian!</b>
 </h1>
 
-<h2 align="center">
-  <b>Backend Software Engineer</b>
-</h2>
+<div align="center">
+  <b>
+  Backend Software Engineer
+  and
+  Systems Programmer Hobbyist
+  </b>
+</div>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
@@ -27,10 +31,16 @@
 - ![ESP 32 Bare Metal OS](https://github.com/christophermilian/esp32-riscv-bare-metal-os)
 - ![Autonomous Vacuum Cleaner Protptype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
 
-### 📫 How to reach me:
-- ![Find me on LinkedIn!](https://www.linkedin.com/in/christophermilian/)
-
-## 🥇 Certifications and Background
+## 🥇 Education Background
+- (In progress) Masters of Science in Computer Engineering, Florida International University
 - Bachelors of Science in Computer Engineering, Florida International University
 - Backend Development and APIs, freeCodeCamp
 - Introduction to Cloud Computing, IBM
+
+## 📚 Interesting Books I've Read
+- Hackers: Heroes of the Computer Revolution
+- Operating Systems Three Easy Pieces
+- Pragmatic Programmer 2nd Edition
+
+### 📫 How to reach me:
+- ![Find me on LinkedIn!](https://www.linkedin.com/in/christophermilian/)
