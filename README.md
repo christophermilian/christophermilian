@@ -24,8 +24,8 @@
 
 ### 🛠️ Most Interesting Projects
 - ![ESP32 Fishing Game Controller](https://https://github.com/christophermilian/esp32-fishing-controller)
-- ![Git cli clone with Python](https://github.com/christophermilian/git-cli-clone-python)
-- ![Type-safe exercise tracker with TypeScript](https://github.com/christophermilian/nodejs-exercise-tracker)
+- ![ESP 32 Bare Metal OS](https://github.com/christophermilian/esp32-riscv-bare-metal-os)
+- ![Autonomous Vacuum Cleaner Protptype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
 
 ### 📫 How to reach me:
 - ![Find me on LinkedIn!](https://www.linkedin.com/in/christophermilian/)
