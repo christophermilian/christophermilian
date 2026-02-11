@@ -27,7 +27,7 @@
 </p>
 
 ### 🛠️ Most Interesting Projects
-- ![ESP32 Fishing Game Controller](https://https://github.com/christophermilian/esp32-fishing-controller)
+- ![ESP32 Fishing Game Controller](https://github.com/christophermilian/esp32-fishing-controller)
 - ![ESP 32 Bare Metal OS](https://github.com/christophermilian/esp32-riscv-bare-metal-os)
 - ![Autonomous Vacuum Cleaner Protptype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
 
