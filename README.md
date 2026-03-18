@@ -27,6 +27,7 @@
 </p>
 
 ### 🛠️ Most Interesting Projects
+- ![Unix Shell in C](https://github.com/christophermilian/milian-shell)
 - ![ESP32 Fishing Game Controller](https://github.com/christophermilian/esp32-fishing-controller)
 - ![ESP 32 Bare Metal OS](https://github.com/christophermilian/esp32-riscv-bare-metal-os)
 - ![Autonomous Vacuum Cleaner Protptype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
