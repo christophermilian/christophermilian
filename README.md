@@ -30,7 +30,7 @@
 - ESP32 Fishing Game Controller
 - ![Unix Shell in C](https://github.com/christophermilian/milian-shell)
 - ![ESP 32 Bare Metal OS](https://github.com/christophermilian/esp32-riscv-bare-metal-os)
-- ![Autonomous Vacuum Cleaner Protptype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
+- ![Autonomous Vacuum Cleaner Prototype](https://github.com/christophermilian/autonomous-dryvacuum-cleaner)
 
 ## 🥇 Education Background
 - (In progress) Masters of Science in Computer Engineering, Florida International University
